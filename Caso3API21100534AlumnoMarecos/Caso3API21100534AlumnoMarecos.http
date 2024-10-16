@@ -1,0 +1,6 @@
+@Caso3API21100534AlumnoMarecos_HostAddress = http://localhost:5107
+
+GET {{Caso3API21100534AlumnoMarecos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
